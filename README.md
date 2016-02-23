@@ -3,11 +3,12 @@
 
 A super long list of things!
 
-## background
+## process
+### step 1
 
 Experiment with a number of frameworks.
 
-## goal
+### step 2
 
 Learn something new
 
